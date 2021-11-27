@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.891941fd.chunk.css",
+    "main.js": "/static/js/main.b7a370cb.chunk.js",
+    "main.js.map": "/static/js/main.b7a370cb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d32ff161.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d32ff161.js.map",
+    "static/js/2.8bbe6630.chunk.js": "/static/js/2.8bbe6630.chunk.js",
+    "static/js/2.8bbe6630.chunk.js.map": "/static/js/2.8bbe6630.chunk.js.map",
+    "static/js/3.a58f5969.chunk.js": "/static/js/3.a58f5969.chunk.js",
+    "static/js/3.a58f5969.chunk.js.map": "/static/js/3.a58f5969.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.891941fd.chunk.css.map": "/static/css/main.891941fd.chunk.css.map",
+    "static/js/2.8bbe6630.chunk.js.LICENSE.txt": "/static/js/2.8bbe6630.chunk.js.LICENSE.txt",
+    "static/media/Platform.b4dc71c3.mp4": "/static/media/Platform.b4dc71c3.mp4",
+    "static/media/angular-project.682e98e3.mp4": "/static/media/angular-project.682e98e3.mp4",
+    "static/media/angular.fcff9f9b.png": "/static/media/angular.fcff9f9b.png",
+    "static/media/codewars.017dff0d.png": "/static/media/codewars.017dff0d.png",
+    "static/media/docker.e0ba9d23.png": "/static/media/docker.e0ba9d23.png",
+    "static/media/eclipse.202aabb5.png": "/static/media/eclipse.202aabb5.png",
+    "static/media/guitar.564fa954.jpeg": "/static/media/guitar.564fa954.jpeg",
+    "static/media/html5.4d53bacc.png": "/static/media/html5.4d53bacc.png",
+    "static/media/java.ddf8676b.png": "/static/media/java.ddf8676b.png",
+    "static/media/maven.d7f89e3e.png": "/static/media/maven.d7f89e3e.png",
+    "static/media/mongodb.7a16fc61.png": "/static/media/mongodb.7a16fc61.png",
+    "static/media/mysql2.a5fe1bf1.png": "/static/media/mysql2.a5fe1bf1.png",
+    "static/media/programming.a027f24c.jpeg": "/static/media/programming.a027f24c.jpeg",
+    "static/media/sass.931eeac6.png": "/static/media/sass.931eeac6.png",
+    "static/media/wildfly.dc137ded.png": "/static/media/wildfly.dc137ded.png",
+    "static/media/yoganature.0ae64d0b.jpg": "/static/media/yoganature.0ae64d0b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d32ff161.js",
+    "static/js/2.8bbe6630.chunk.js",
+    "static/css/main.891941fd.chunk.css",
+    "static/js/main.b7a370cb.chunk.js"
+  ]
+}
