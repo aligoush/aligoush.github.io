@@ -1,0 +1,21 @@
+.interests-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 50px;
+    align-items: center;
+  }
+  
+  .box-interests{
+    margin: 20px;
+    padding: 20px;
+    border-radius: 3%;
+    border-color: rgba(136, 73, 9, 0.827); 
+    border-image: initial;
+  }
+
+  .foto-interests{
+    border-radius: 10%;
+    max-width: 100%;
+    height: auto;
+  }

@@ -1,0 +1,21 @@
+.project-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .icon{
+  height: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  }
+
+  .express{
+    background-color: rgb(221, 219, 83);
+    padding-top: 5px;
+    border-radius: 10px;
+  }
+
+  h3{
+    font-size: xx-large;
+  }
